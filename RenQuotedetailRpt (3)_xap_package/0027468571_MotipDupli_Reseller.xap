@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"242054";"";""
+Program="No";"";"";"""
+EndUser="Motip Dupli";"";"Motip Dupli";"Wolfraamweg 2"
+Contract="";"0007543276";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027468571";"31 Dec 2027";"G. Bijmholt"
+[Lines]
+Count="1"
+Sums="";"17248.00";"";""
+Currency="EUR"
+L1="E0Q5WLL";"DB2 STANDARD EDITION VPC OPTION PER VPC ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"22";"";"0.00";"784.00";"";"17248.00|";"17248.00";"";"";"";"";"";"";""

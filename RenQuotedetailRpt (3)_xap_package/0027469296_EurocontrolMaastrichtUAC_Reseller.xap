@@ -1,0 +1,14 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"014888";"";""
+Program="No";"";"";"""
+EndUser="Eurocontrol Maastricht UAC";"";"Eurocontrol Maastricht UAC";"Horsterweg 11"
+Contract="";"0007367974";"";"Co-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027469296";"31 Dec 2027";"Cihan Kucukkececi"
+[Lines]
+Count="3"
+Sums="";"92154.00";"";""
+Currency="EUR"
+L1="E0753LL";"RATL DOORS WEB ACCESS EDTIOR FLOATING USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"2";"";"0.00";"3113.00";"";"6226.00|";"6226.00";"";"";"";"";"";"";""
+L2="E075NLL";"RATL DOORS FLOATING USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"8";"";"0.00";"3736.00";"";"29888.00|";"29888.00";"";"";"";"";"";"";""
+L3="E012TLL";"IBM DevOps Code ClearCase Floating User SW S&S Renewal";"";"";"S&S|";"";"31 Dec 2027";"12";"30";"";"0.00";"1868.00";"";"56040.00|";"56040.00";"";"";"";"";"";"";""

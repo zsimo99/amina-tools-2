@@ -1,0 +1,19 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"599418";"";""
+Program="No";"";"";"""
+EndUser="Stichting HagaZiekenhuis";"";"Stichting HagaZiekenhuis";"Leyweg 275"
+Contract="";"0003048182";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027466403";"31 Dec 2027";"Gerard Hulsbos"
+[Lines]
+Count="8"
+Sums="";"87003.00";"";""
+Currency="EUR"
+L1="E0LVFLL";"ISP HSM FOR WINDOWS PER TERABYTE ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"1609.00";"";"1609.00|";"1609.00";"";"";"";"";"";"";""
+L2="E027NLL";"IBM LICENSE METRIC TOOL PER ESTABLISHMENT ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"0.00";"";"0.00|";"0.00";"";"";"";"";"";"";""
+L3="E0LUDLL";"Storage Protect SNAPSHOT PER T(1-12) ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"2";"";"0.00";"334.00";"";"668.00|";"668.00";"";"";"";"";"";"";""
+L4="E09PULL";"STATS CLIENT ADV STATISTICS CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"5";"";"0.00";"1443.00";"";"7215.00|";"7215.00";"";"";"";"";"";"";""
+L5="E09PWLL";"STATS CLIENT BASE CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"5";"";"0.00";"2597.00";"";"12985.00|";"12985.00";"";"";"";"";"";"";""
+L6="E09PYLL";"STATS CLIENT CUSTOM TABLES CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"5";"";"0.00";"1443.00";"";"7215.00|";"7215.00";"";"";"";"";"";"";""
+L7="E09PJLL";"STATS CLIENT REGRESSION CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"5";"";"0.00";"1443.00";"";"7215.00|";"7215.00";"";"";"";"";"";"";""
+L8="E0LUVLL";"IBM Storage Protect Suite Entry Terabyte (1-100) Annual SW S&S Rnwl";"";"";"S&S|";"";"31 Dec 2027";"12";"62";"";"0.00";"808.00";"";"50096.00|";"50096.00";"";"";"";"";"";"";""

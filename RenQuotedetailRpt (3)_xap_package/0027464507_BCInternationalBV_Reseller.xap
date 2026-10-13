@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"234501";"";""
+Program="No";"";"";"""
+EndUser="B&C International BV";"";"B&C International BV";"Ampèresraat 11"
+Contract="";"0007373587";"";"BP-Led";"VAR";"30 Nov 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027464507";"30 Nov 2027";"Harry Veldkamp"
+[Lines]
+Count="1"
+Sums="";"2034.00";"";""
+Currency="EUR"
+L1="E08DBLL";"RDIRCTAU ANNUAL S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"6";"";"0.00";"339.00";"";"2034.00|";"2034.00";"";"";"";"";"";"";""

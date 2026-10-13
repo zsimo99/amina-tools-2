@@ -1,0 +1,13 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"264649";"";""
+Program="No";"";"";"""
+EndUser="Gemeente Leiden";"";"Gemeente Leiden";"Stadhuisplein 1"
+Contract="";"0007039409";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027466684";"31 Dec 2027";"Bert Kleimann"
+[Lines]
+Count="2"
+Sums="";"3237.00";"";""
+Currency="EUR"
+L1="E09PYLL";"STATS CLIENT CUSTOM TABLES CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"1158.00";"";"1158.00|";"1158.00";"";"";"";"";"";"";""
+L2="E09PWLL";"STATS CLIENT BASE CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"2079.00";"";"2079.00|";"2079.00";"";"";"";"";"";"";""

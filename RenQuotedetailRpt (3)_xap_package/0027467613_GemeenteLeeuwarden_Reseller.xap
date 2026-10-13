@@ -1,0 +1,13 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"289510";"";""
+Program="No";"";"";"""
+EndUser="Gemeente Leeuwarden";"";"Gemeente Leeuwarden";"Oldehoofsterkerkhof 2"
+Contract="";"0003209554";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027467613";"31 Dec 2027";"Joucko Wagenmakers"
+[Lines]
+Count="2"
+Sums="";"3833.00";"";""
+Currency="EUR"
+L1="E09PWLL";"STATS CLIENT BASE CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"2466.00";"";"2466.00|";"2466.00";"";"";"";"";"";"";""
+L2="E09PYLL";"STATS CLIENT CUSTOM TABLES CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"1367.00";"";"1367.00|";"1367.00";"";"";"";"";"";"";""

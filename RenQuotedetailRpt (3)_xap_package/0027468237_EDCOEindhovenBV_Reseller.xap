@@ -1,0 +1,14 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"201301";"";""
+Program="No";"";"";"""
+EndUser="EDCO Eindhoven BV";"";"EDCO Eindhoven BV";"Adriaan Mulderweg 9-11"
+Contract="";"0004158310";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027468237";"31 Dec 2027";"Gerben van der Doelen"
+[Lines]
+Count="3"
+Sums="";"57081.00";"";""
+Currency="EUR"
+L1="E0K30LL";"COGNOS ANALYTICS ADMINISTRATOR AU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"2";"";"0.00";"3858.00";"";"7716.00|";"7716.00";"";"";"";"";"";"";""
+L2="E0K2DLL";"COGNOS ANALYTICS EXPLORER AUTHORIZED USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"3";"";"0.00";"322.00";"";"966.00|";"966.00";"";"";"";"";"";"";""
+L3="E0K32LL";"COGNOS ANALYTICS USER AU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"221";"";"0.00";"219.00";"";"48399.00|";"48399.00";"";"";"";"";"";"";""

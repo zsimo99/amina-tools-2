@@ -1,0 +1,23 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"070500";"";""
+Program="No";"";"";"""
+EndUser="Eurofins Agro Testing Wageningen B.V.";"";"Eurofins Agro Testing Wageningen B.V.";"Binnenhaven 5"
+Contract="";"0007120588";"";"BP-Led";"VAR";"30 Nov 2026";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027464461";"30 Nov 2026";"Gijs Beets"
+[Lines]
+Count="12"
+Sums="";"33801.08";"";""
+Currency="EUR"
+L1="E0LVVLL";"ISP FOR MAIL PER 10 PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2026";"12";"14";"";"0.00";"3.49";"";"48.86|";"48.86";"";"";"";"";"";"";""
+L2="E0LWGLL";"ISP EXTENDED EDITION PER 10 PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2026";"12";"14";"";"0.00";"1.81";"";"25.34|";"25.34";"";"";"";"";"";"";""
+L3="E02HKLL";"WEBSPHERE APPLICATION SERVER EXPRESS PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2026";"12";"70";"";"0.00";"0.82";"";"57.40|";"57.40";"";"";"";"";"";"";""
+L4="E02JDLL";"Db2 CONNECT UNLIMITED ED FOR SYS I VALUE UNIT ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2026";"12";"140";"";"0.00";"1.87";"";"261.80|";"261.80";"";"";"";"";"";"";""
+L5="E08DBLL";"RDIRCTAU ANNUAL S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"1";"";"0.00";"356.00";"";"356.00|";"356.00";"";"";"";"";"";"";""
+L6="E0Q5WLL";"DB2 STANDARD EDITION VPC OPTION PER VPC ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"3";"";"0.00";"3894.00";"";"11682.00|";"11682.00";"";"";"";"";"";"";""
+L7="E0AQBLL";"RTC DEVELOPER FOR IBM ENTERPRISE PLATFORM AUSI ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"3";"";"0.00";"2006.00";"";"6018.00|";"6018.00";"";"";"";"";"";"";""
+L8="E03SULL";"RATL BUSINESS DEVELOPER AUTHORIZED USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"3";"";"0.00";"1339.00";"";"4017.00|";"4017.00";"";"";"";"";"";"";""
+L9="E0LVVLL";"ISP FOR MAIL PER 10 PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"14";"";"0.00";"41.87";"";"586.18|";"586.18";"";"";"";"";"";"";""
+L10="E0LWGLL";"ISP EXTENDED EDITION PER 10 PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"14";"";"0.00";"21.75";"";"304.50|";"304.50";"";"";"";"";"";"";""
+L11="E02JDLL";"Db2 CONNECT UNLIMITED ED FOR SYS I VALUE UNIT ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"280";"";"0.00";"22.48";"";"6294.40|";"6294.40";"";"";"";"";"";"";""
+L12="E02HKLL";"WEBSPHERE APPLICATION SERVER EXPRESS PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"420";"";"0.00";"9.88";"";"4149.60|";"4149.60";"";"";"";"";"";"";""

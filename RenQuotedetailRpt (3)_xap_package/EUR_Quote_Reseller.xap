@@ -1,0 +1,13 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"NLD";"";""
+Program="No";"";"";"""
+EndUser="N/A";"";"";"0007880579 - Beko Nederland BV"
+Contract="";"No";"";"null - null";"VAR";"2025-12-31";"Yes"
+SourceDocument="ProActive Renewal Quote";"EUR";"2025-12-31";"236402"
+[Lines]
+Count="2"
+Sums="";"1151.66";"";""
+Currency="556.60"
+L1="E04JDLL";"IBM RATIONAL HATS 5250 MULTI";"";"";"S&S|";"";"";"12";"AUTHORIZED USER ANNUAL SW S&S RNWL";"";"0.00";"56.38";"";"55.66|";"55.66";"";"";"";"";"";"";""
+L2="E0HMQLL";"RDI RPGC + MT";"";"";"S&S|";"";"";"12";"JAVA EDITION PER AU ANNUAL SW S&S RNWL";"";"0.00";"1096.00";"";"1096.00|";"1096.00";"";"";"";"";"";"";""

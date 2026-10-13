@@ -1,0 +1,14 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"001523";"";""
+Program="No";"";"";"""
+EndUser="Rouveen Kaas Specialiteiten";"";"Rouveen Kaas Specialiteiten";"Oude Rijksweg 395"
+Contract="";"0004164336";"";"BP-Led";"VAR";"30 Nov 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027464121";"30 Nov 2027";"Mark voor ‘t Hekke"
+[Lines]
+Count="3"
+Sums="";"6712.00";"";""
+Currency="EUR"
+L1="E07PQLL";"PA EXPRESS ADMINISTRATOR PER AUTHORIZED USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"1";"";"0.00";"341.00";"";"341.00|";"341.00";"";"";"";"";"";"";""
+L2="E07PKLL";"PA EXPRESS CONNECTOR FOR COG ANALYTICS INSTALL ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"1";"";"0.00";"1211.00";"";"1211.00|";"1211.00";"";"";"";"";"";"";""
+L3="E07PLLL";"PA EXPRESS COG ANALYTICS USER PER AUTHORIZED USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"40";"";"0.00";"129.00";"";"5160.00|";"5160.00";"";"";"";"";"";"";""

@@ -1,0 +1,17 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"021044";"";""
+Program="No";"";"";"""
+EndUser="Noordwest Ziekenhuisgroep";"";"Noordwest Ziekenhuisgroep";"Metiusgracht 30"
+Contract="";"0003249900";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027467241";"31 Dec 2027";"en logistiek inkoop"
+[Lines]
+Count="6"
+Sums="";"20135.00";"";""
+Currency="EUR"
+L1="E09Q3LL";"STATS CLIENT MISSING VALUES CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"545.00";"";"545.00|";"545.00";"";"";"";"";"";"";""
+L2="E09PULL";"STATS CLIENT ADV STATISTICS CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"545.00";"";"545.00|";"545.00";"";"";"";"";"";"";""
+L3="E09PJLL";"STATS CLIENT REGRESSION CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"2";"";"0.00";"545.00";"";"1090.00|";"1090.00";"";"";"";"";"";"";""
+L4="E09Q5LL";"STATS CLIENT FORECASTING CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"3";"";"0.00";"545.00";"";"1635.00|";"1635.00";"";"";"";"";"";"";""
+L5="E09PYLL";"STATS CLIENT CUSTOM TABLES CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"3";"";"0.00";"545.00";"";"1635.00|";"1635.00";"";"";"";"";"";"";""
+L6="E09PWLL";"STATS CLIENT BASE CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"15";"";"0.00";"979.00";"";"14685.00|";"14685.00";"";"";"";"";"";"";""

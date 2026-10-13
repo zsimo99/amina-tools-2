@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"551000";"";""
+Program="No";"";"";"""
+EndUser="Nedal Aluminium b.v.";"";"Nedal Aluminium b.v.";"Groenewoudeedijk 1"
+Contract="";"0007126786";"";"Co-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027470009";"31 Dec 2027";"Dhr. M. Gubbels"
+[Lines]
+Count="1"
+Sums="";"2110.00";"";""
+Currency="EUR"
+L1="E02HKLL";"WEBSPHERE APPLICATION SERVER EXPRESS PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"200";"";"0.00";"10.55";"";"2110.00|";"2110.00";"";"";"";"";"";"";""

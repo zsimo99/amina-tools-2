@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"";"";""
+Program="No";"";"";"""
+EndUser="N/A";"";"";""
+Contract="";"";"";"BP-Led";"VAR";"2025-12-31";"Yes"
+SourceDocument="ProActive Renewal Quote";"unknown";"2025-12-31";"N/A"
+[Lines]
+Count="1"
+Sums="";"0.00";"";""
+Currency="EUR"
+L1="";"End o";"";"";"S&S|";"";"";"12";"1";"";"0.00";"0.00";"";"0.00|";"0.00";"";"";"";"";"";"";""

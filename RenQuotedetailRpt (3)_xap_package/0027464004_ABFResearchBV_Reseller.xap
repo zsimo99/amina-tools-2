@@ -1,0 +1,16 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"608088";"";""
+Program="No";"";"";"""
+EndUser="ABF Research B.V.";"";"ABF Research B.V.";"Verwersdijk 8 8"
+Contract="";"0003896730";"";"BP-Led";"VAR";"30 Nov 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027464004";"30 Nov 2027";"Sjors Herstein"
+[Lines]
+Count="5"
+Sums="";"4533.00";"";""
+Currency="EUR"
+L1="E09PVLL";"STATS CLIENT ADV STATISTICS AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"1";"";"0.00";"525.00";"";"525.00|";"525.00";"";"";"";"";"";"";""
+L2="E09QCLL";"STATS CLIENT DECISION TREES AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"1";"";"0.00";"525.00";"";"525.00|";"525.00";"";"";"";"";"";"";""
+L3="E09PKLL";"STATS CLIENT REGRESSION AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"1";"";"0.00";"525.00";"";"525.00|";"525.00";"";"";"";"";"";"";""
+L4="E09NNLL";"STATS CLIENT BASE AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"2";"";"0.00";"954.00";"";"1908.00|";"1908.00";"";"";"";"";"";"";""
+L5="E09PXLL";"STATS CLIENT CUSTOM TABLES AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"30 Nov 2027";"12";"2";"";"0.00";"525.00";"";"1050.00|";"1050.00";"";"";"";"";"";"";""

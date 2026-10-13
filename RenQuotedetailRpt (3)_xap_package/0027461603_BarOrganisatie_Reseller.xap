@@ -1,0 +1,13 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"026003";"";""
+Program="No";"";"";"""
+EndUser="Bar Organisatie";"";"Bar Organisatie";"Binnenhof 1"
+Contract="";"0003244302";"";"BP-Led";"VAR";"31 Oct 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027461603";"31 Oct 2027";"M.H. Overwater"
+[Lines]
+Count="2"
+Sums="";"1409.00";"";""
+Currency="EUR"
+L1="E09NNLL";"STATS CLIENT BASE AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"1";"";"0.00";"908.00";"";"908.00|";"908.00";"";"";"";"";"";"";""
+L2="E09PXLL";"STATS CLIENT CUSTOM TABLES AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"1";"";"0.00";"501.00";"";"501.00|";"501.00";"";"";"";"";"";"";""

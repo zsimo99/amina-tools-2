@@ -1,0 +1,14 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"617369";"";""
+Program="No";"";"";"""
+EndUser="Eurocontrol Muac";"";"Eurocontrol Muac";"Horsterweg 11"
+Contract="";"0003571521";"";"Co-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027468769";"31 Dec 2027";"Cihan Kucukkececi"
+[Lines]
+Count="3"
+Sums="";"8017.00";"";""
+Currency="EUR"
+L1="E011ZLL";"RATL TEST REALTIME FLOATING USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"5603.00";"";"5603.00|";"5603.00";"";"";"";"";"";"";""
+L2="E012TLL";"IBM DevOps Code ClearCase Floating User SW S&S Renewal";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"1775.00";"";"1775.00|";"1775.00";"";"";"";"";"";"";""
+L3="E012ZLL";"IBM DevOps Code ClearCase MultiSite Floating User Annual SW S&S Rnwl";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"639.00";"";"639.00|";"639.00";"";"";"";"";"";"";""

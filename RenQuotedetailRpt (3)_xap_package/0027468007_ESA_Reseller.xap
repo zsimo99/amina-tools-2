@@ -1,0 +1,14 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"108506";"";""
+Program="No";"";"";"""
+EndUser="ESA-ESAC/Stores";"";"ESA-ESAC/Stores";"Camino bajo del Castillo"
+Contract="";"0003740199";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027468007";"31 Dec 2027";"Ruben Alvarez"
+[Lines]
+Count="3"
+Sums="";"54115.00";"";""
+Currency="EUR"
+L1="E0PKULL";"ASPERA HIGH-SPEED TRANSFER SERVER 2.5GBPS INSTALL ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"34683.00";"";"34683.00|";"34683.00";"";"";"";"";"";"";""
+L2="E0KQYLL";"ASPERA CONSOLE APP - 1 NODE AND 1 USER INS ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"3247.00";"";"3247.00|";"3247.00";"";"";"";"";"";"";""
+L3="E0P25LL";"ASP HIGH SPD TRANSFER EDPT1GBPS RVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"5";"";"0.00";"3237.00";"";"16185.00|";"16185.00";"";"";"";"";"";"";""

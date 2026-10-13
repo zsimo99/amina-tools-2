@@ -1,0 +1,14 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"NLD";"";""
+Program="No";"";"";"""
+EndUser="Rode Kruis Ziekenhuis";"";"Rode Kruis Ziekenhuis";"Vondellaan 13"
+Contract="";"0003231010";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027467139";"31 Dec 2027";"630006"
+[Lines]
+Count="3"
+Sums="";"4491.00";"";""
+Currency="EUR"
+L1="E09PVLL";"STATS CLIENT ADV STATISTICS AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"208.00";"";"208.00|";"208.00";"";"";"";"";"";"";""
+L2="E09PULL";"STATS CLIENT ADV STATISTICS CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"527.00";"";"527.00|";"527.00";"";"";"";"";"";"";""
+L3="E09PWLL";"STATS CLIENT BASE CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"4";"";"0.00";"939.00";"";"3756.00|";"3756.00";"";"";"";"";"";"";""

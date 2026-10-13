@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"343896";"";""
+Program="No";"";"";"""
+EndUser="Corbion Group Netherlands BV";"";"Corbion Group Netherlands BV";"Piet Heinkade 127"
+Contract="";"0003771352";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027468028";"31 Dec 2027";"Eileen Holt"
+[Lines]
+Count="1"
+Sums="";"0.00";"";""
+Currency="EUR"
+L1="E027NLL";"IBM LICENSE METRIC TOOL PER ESTABLISHMENT ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"0.00";"";"0.00|";"0.00";"";"";"";"";"";"";""

@@ -1,0 +1,17 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"000026";"";""
+Program="No";"";"";"""
+EndUser="STICHTING CENTERDATA";"";"STICHTING CENTERDATA";"Warandelaan 2"
+Contract="";"0004038862";"";"BP-Led";"VAR";"31 Oct 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027461545";"31 Oct 2027";"Sander Janssens"
+[Lines]
+Count="6"
+Sums="";"10276.00";"";""
+Currency="EUR"
+L1="E09PYLL";"STATS CLIENT CUSTOM TABLES CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"1";"";"0.00";"506.00";"";"506.00|";"506.00";"";"";"";"";"";"";""
+L2="E09QDLL";"STATS CLIENT EXACT TESTS CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"1";"";"0.00";"506.00";"";"506.00|";"506.00";"";"";"";"";"";"";""
+L3="E09Q3LL";"STATS CLIENT MISSING VALUES CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"1";"";"0.00";"506.00";"";"506.00|";"506.00";"";"";"";"";"";"";""
+L4="E09PJLL";"STATS CLIENT REGRESSION CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"1";"";"0.00";"506.00";"";"506.00|";"506.00";"";"";"";"";"";"";""
+L5="E09PULL";"STATS CLIENT ADV STATISTICS CONC USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"2";"";"0.00";"506.00";"";"1012.00|";"1012.00";"";"";"";"";"";"";""
+L6="E09PWLL";"STATS CLIENT BASE CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Oct 2027";"12";"8";"";"0.00";"905.00";"";"7240.00|";"7240.00";"";"";"";"";"";"";""

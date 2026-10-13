@@ -1,0 +1,13 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"029913";"";""
+Program="No";"";"";"""
+EndUser="Gemeente Zwolle afd. I&A";"";"Gemeente Zwolle afd. I&A";"Plv. Hoofd Informatie"
+Contract="";"0007039266";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027466634";"31 Dec 2027";"Maik von Piekartz"
+[Lines]
+Count="2"
+Sums="";"12948.00";"";""
+Currency="EUR"
+L1="E09PWLL";"STATS CLIENT BASE CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"4";"";"0.00";"2079.00";"";"8316.00|";"8316.00";"";"";"";"";"";"";""
+L2="E09PYLL";"STATS CLIENT CUSTOM TABLES CoU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"4";"";"0.00";"1158.00";"";"4632.00|";"4632.00";"";"";"";"";"";"";""

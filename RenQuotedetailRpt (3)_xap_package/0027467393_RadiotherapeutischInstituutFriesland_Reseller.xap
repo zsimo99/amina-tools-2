@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"680179";"";""
+Program="No";"";"";"""
+EndUser="Radiotherapeutisch Instituut Friesland";"";"Radiotherapeutisch Instituut Friesland";"Borniastraat 36"
+Contract="";"0004336464";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027467393";"31 Dec 2027";"C.J.W.M. (Karin) Mondriaan-van Zutphen"
+[Lines]
+Count="1"
+Sums="";"416.00";"";""
+Currency="EUR"
+L1="E09NNLL";"STATS CLIENT BASE AUTH USER ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"1";"";"0.00";"416.00";"";"416.00|";"416.00";"";"";"";"";"";"";""

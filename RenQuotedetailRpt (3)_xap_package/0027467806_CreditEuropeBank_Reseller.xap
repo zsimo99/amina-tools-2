@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"487050";"";""
+Program="No";"";"";"""
+EndUser="Credit Europe Bank";"";"Credit Europe Bank";"G Karspeldreef 6A"
+Contract="";"0003425614";"";"BP-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027467806";"31 Dec 2027";"Baha Emre"
+[Lines]
+Count="1"
+Sums="";"1110.00";"";""
+Currency="EUR"
+L1="E0J6MLL";"IBM VSC FOR STRWZE FAMILY PER STORAGE DEVICE ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"2";"";"0.00";"555.00";"";"1110.00|";"1110.00";"";"";"";"";"";"";""

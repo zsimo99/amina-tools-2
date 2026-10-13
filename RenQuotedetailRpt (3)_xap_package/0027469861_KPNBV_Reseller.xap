@@ -1,0 +1,12 @@
+Exchange Arrow Proposal - DB - 2.4 - Quote
+[Header]
+Customer="N/A";"";"155702";"";""
+Program="No";"";"";"""
+EndUser="KPN B.V.";"";"KPN B.V.";"Wilhelminakade 123"
+Contract="";"0007111853";"";"Co-Led";"VAR";"31 Dec 2027";"Yes"
+SourceDocument="ProActive Renewal Quote";"0027469861";"31 Dec 2027";"Evert Dijkstra"
+[Lines]
+Count="1"
+Sums="";"90748.00";"";""
+Currency="EUR"
+L1="E0256LL";"WEBSPHERE MQ PVU ANNUAL SW S&S RNWL";"";"";"S&S|";"";"31 Dec 2027";"12";"2800";"";"0.00";"32.41";"";"90748.00|";"90748.00";"";"";"";"";"";"";""
